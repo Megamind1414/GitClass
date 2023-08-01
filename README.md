@@ -1,1 +1,2 @@
-# a git hub class for devops
+# GitClass
+a git hub class for devops
